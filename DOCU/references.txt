@@ -1,0 +1,60 @@
+
+References:
+
+Abramitov, S. A., & Dneprovskaya, M. A. (2021). On the issue of digitalization of municipal services in the construction sector. IOP Conference Series: Earth and Environmental Science, 751(1), 012095. https://doi.org/10.1088/1755-1315/751/1/012095
+Alyabes, A. F. (2018). Factors affecting consumers’ perception of electronic payment in Saudi Arabia. CORE. https://core.ac.uk/display/234628573?utm_source=pdf&utm_medium=banner&utm_campaign=pdf-decoration-v1
+Baghla, A. (2018). A STUDY ON THE FUTURE OF DIGITAL PAYMENTS IN INDIA (e ISSN 2348 –1269,). 5(4), e ISSN 2348 –1269,.
+Beutler, A., Fabunmi, B., Wiltermood, K., & Talaver, T. (2020). City of San Marcos Payment Processes.
+Bianca, A. (2019, February 12). The Disadvantages to Centralized Control in a Business. Small Business - Chron.com. https://smallbusiness.chron.com/disadvantages-centralized-control-business-20670.html
+Chang, C & Almaghalsah, H. (2020). Usability evaluation of e-government websites: A case study from Taiwan. International Journal of Data and Network Science, 4(2), 127-138. http://m.growingscience.com/beta/ijds/3749-usability-evaluation-of-e-government-websites-a-case-study-from-taiwan.html
+Chatterji, T. (2018). Digital urbanism in a transitional economy–a review of India’s municipal e-governance policy. Journal of Asian Public Policy, 11(3), 334-349.
+Christudas, B. (2019). MySQL. In: Practical Microservices Architectural Patterns. Apress, Berkeley, CA. https://doi.org/10.1007/978-1-4842-4501-9_27
+Dela Cerna, M. A. (2023). Development and implementation of an office automation system for Barangay Local Government units. 2023 4th International Conference for Emerging Technology (INCET). https://doi.org/10.1109/incet57972.2023.10170650
+Diegtiar, O. A., Kravchenko, Т. A., Yevmieshkina, O. L., Sych, T. V., & Linetska, Y. M. (2021). Innovative foundations for optimizing the information and communication system of local government. Linguistics and Culture Review, 5(S4), 955-967.
+E-Spin. (2023, February 15). Advantages and Disadvantages of E-Government: Exploring the Pros and Cons of Digital Government Services. Retrieved from https://www.e-spincorp.com/the-advantages-and-disadvantages-of-e-government/
+Ford, J. (2023, March 29). Doing more with less: Utilizing centralization and online payments. LinkedIn. https://www.linkedin.com/pulse/doing-more-less-utilizing-centralization-online-payments-jeremy-ford
+Harris, L. (2020). "Centralizing Transactions: A Case Study of New York City's Success." Public Administration Review, 35(3), 421-435.].
+Hlaing, K. M., & Nyaung, D. E. (2019, November 1). Electricity Billing System using Ethereum and Firebase. IEEE Conference Publication | IEEE Xplore. https://ieeexplore.ieee.org/document/8920931
+Hossain, R., Sarker, D., Meem, S. S., & Amin, M. (2020). Analysis of Centralized Payment eco-system: A Systematic Review on e-payments. ResearchGate. https://www.researchgate.net/publication/344223983_Analysis_of_Centralized_Payment_Eco-System_A_Systematic_Review_on_E-Payment
+Indeed Editorial Team. (2022, July 25). Centralized Management: Definition and Key Features. Indeed. https://www.indeed.com/career-advice/career-development/centralized-management
+Jackson, L. (2023) Centralize Workforce Management to Achieve Business Goals. SmartLinx. Retrieved from https://www.smartlinx.com/resources/blog/centralize-workforce-management-better-quality-less-cost
+Kalinichenko, L. A., Urzha, O. A., Adamskaya, L. V., Evstratova, T. A., & Medvedeva, N. V. (2021, March 17). Source Municipal Management in Russia: The National Base of the president and system digitalization. Dialnet. https://dialnet.unirioja.es/servlet/articulo?codigo=8108863
+Kumar, S. (2023, January 30). Express.js: A Powerful Node.js Framework. Retrieved from https://www.linkedin.com/pulse/expressjs-powerful-nodejs-framework-suneel-kumar
+Lailiyah, N., & Sebayang, L. K. B. (2020). Effectiveness of E-Billing system in tax payments for taxpayers. Economics Development Analysis Journal, 8(4), 267–280. https://doi.org/10.15294/edaj.v8i4.35266
+Liwanag, H.J., Wyss, K. Who should decide for local health services? A mixed methods study of preferences for decision-making in the decentralized Philippine health system. BMC Health Serv Res 20, 305 (2020). https://doi.org/10.1186/s12913-020-05174-w
+Mahula, S., Lindquist, M., Norström, L., & Lindman, J. (2022). Digital transformation in local government organisations: Empirical evidence from Blockchain Initiatives. DG.O 2022: The 23rd Annual International Conference on Digital Government Research. https://doi.org/10.1145/3543434.3543474
+Malodia, S., Dhir, A., Mishra, M., & Bhatti, Z. A. (2021). Future of e-Government: An integrated conceptual framework. Technological Forecasting and Social Change, 173, 121102.
+Manoharan, A. P., & Ingrams, A. (2018). Conceptualizing e-government from local government perspectives. State and Local Government Review, 50(1), 56-66.
+MasterClass. (2022, May 10). Centralization Explained: Pros and Cons of Centralization. https://www.masterclass.com/articles/centralization
+Murali, M. (2023, February 08). What Is Visual Studio? HubSpot Blog. https://blog.hubspot.com/website/what-is-visual-studio
+Nani, D. A., & Ali, S. (2020). Determinants of effective e-procurement system: Empirical evidence from Indonesian local governments. Jurnal Dinamika Akuntansi dan Bisnis. https://jurnal.usk.ac.id/JDAB/article/view/15671
+Nita, A. M., & Goga, C. I. (2018). Strategic Management in the Local Public Administration Institutions. Case study: Application of the Balanced Scorecard instrument in the Zalau City Hall. 
+Paul, G. S., Agangiba, M., & Mumuni, F. (2021, September 30). Smart Energy Meter with Flexible Billing and Payment Options. Paul | Ghana Journal of Technology. http://www2.umat.edu.gh/gjt/index.php/gjt/article/view/338
+Quimba, F. M. A., & Calizo, S. C. (2018). Going Digital: From innovation to inclusive growth in the Philippines. EconStor. https://www.econstor.eu/handle/10419/211039
+Rajendra Sai, A., Buckley, J., Fitzgerald, B., Le Gear, A. (2021). Taxonomy of centralization in public blockchain systems: A systematic literature review. Information Processing & Management, 58(4), 102584. https://doi.org/10.1016/j.ipm.2021.102584.
+Ranjitha, H. T., & Chethana, M. (2019). Advanced billing system for government departments. International Journal of Advance Research, Ideas and Innovations in Technology, 5(2).
+Ringenson, T., Höjer, M., Kramers, A., & Viggedal, A. (2018, April 21). Digitalization and environmental aims in municipalities. MDPI. https://www.mdpi.com/2071-1050/10/4/1278
+Samonte, M. J., Oray, E., & San Juan, K. S. (2023). Exploratory analysis of e-government implementations and blockchain technology on document and identity verification of Overseas Filipino Workers. Proceedings of the 2022 6th International Conference on E-Business and Internet. https://doi.org/10.1145/3572647.3572680
+Singhal, R. (2021). IMPACT AND IMPORTANCE OF DIGITAL PAYMENT IN INDIA. INTERNATIONAL JOURNAL OF MULTIDISCIPLINARY EDUCATIONAL RESEARCH, 10(2(3)). 
+Simplelearn. (2023, March 9). Understand The Differences Between React.js and Node.js. https://www.simplilearn.com/tutorials/nodejs-tutorial/reactjs-vs-nodejs
+Silva, P., Mota, L. F., Carneiro, R., Valentim, R., & Teles, F. (2023). The Inner Functioning of Local Governance Networks in Centralized Countries: A 'Brave New World'? Social Sciences, 12(5), 289. https://doi.org/10.3390/socsci12050289
+Smith, J. (2017). "Enhancing Efficiency through Transaction Centralization in Local Government." Journal of Public Administration, 23(4), 567-580].
+The Role of Payment Systems in Philippine Tax Administration. (2020). NTRC Tax Research Journal, XXXII.4, 11.
+Uster, A., & Cohen, N. (2022). Local government’s response to dissatisfaction with centralized policies: the “do-it-yourself” approach. Journal of Cross-Cultural Psychology, 89(3). https://journals.sagepub.com/doi/full/10.1177/00208523221094414
+Verkijika, S., & De Wet, L. (2018). A usability assessment of e-government websites in Sub-Saharan africa. International Journal of Information Management, 39, 20–29. https://doi.org/10.1016/j.ijinfomgt.2017.11.003
+Vibora, E., P., & Mandigma, Ma. B., S. (2022). Implementation of the Online Tax Payment Facility in a Philippine Local Government Unit. The International Journal of Interdisciplinary Organizational Studies, 17(2).
+Whitell, M., Cao, Y., McCabe, B. Y., Shahi, A., De Lint, M., & Shahi, K. (2020, November 9). Standardizing ontario’s permitting process for E-permitting Implementation. https://ascelibrary.org/doi/abs/10.1061/9780784482889.143
+Yamin, N. Y., Amir, A. M., & Angraini, M. (2018, July). Proceedings of the 5th International Conference on Community Development (AMCA 2018). Retrieved from https://www.atlantis-press.com/proceedings/amca-18/25901800
+Yusop, O. M., Mahbub, M. N., Ismail, S. A., Azmi, A., Kama, N., & Sarkan, H. M. (2019). Experiences in Software Development Model Selection and MVC Design Pattern Implementation for Kuala Lumpur City Hall Traffic Offence Management System. Open International Journal of Informatics, 7(1), 26-34.
+Zinca, D., & Negrean, V.-A. (2018, November 1). Development of a Road Tax Payment Application using the Ethereum Platform. IEEE Conference Publication | IEEE Xplore. https://ieeexplore.ieee.org/document/8583975
+Bent, S.,(2016). The Use Of The Internet By Municipal Governments: Great Expectations. Retrieved from https://library.usask.ca/gic/v3n3/bent/bent.html
+Schmuck, R. (2011). Online Services of Municipal Websites. https://www.researchgate.net/publication/338634052_Online_Services_of_Municipal_Websites
+E-Governance (2008). ICT for Government.  https://ega.ee/wp-content/uploads/2015/02/project_ICT_for_Local_Government.pdf
+Granicus (2023). What Is Digital Government Service?. https://granicus.com/dictionary/digital-government-services/
+Kumari, R. (2023). Why would the government also provide services online?. https://qr.ae/pKnSrE
+The Digital Economy. (2018). Online government services could change your life. But only if you have access to the internet. https://www.weforum.org/agenda/2018/07/government-digital-equal-access-internet-mobile
+GovOS. (2023). The Importance and Purpose of an Effective Government Website. https://govos.com/blog/importance-of-an-effective-government-website/
+Apkarian, A. (2022). How e-Government Can Benefit Your Community. https://www.neoledge.com/us/how-e-government-can-benefit-your-community/
+Suryu, J. (2023). 10 Benefits Of The Internet In The Field Of Government. https://sinaumedia.com/10-benefits-of-the-internet-in-the-field-of-government/
+
+
