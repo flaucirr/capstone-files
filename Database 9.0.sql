@@ -1,0 +1,1 @@
+SELECT * FROM clientdatabase.rptax_payment;
